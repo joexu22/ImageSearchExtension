@@ -1,0 +1,14 @@
+{
+   "description": {
+      "message": "A extension that assists image search"
+   },
+   "findImage": {
+      "message": "Search for this image"
+   },
+   "name": {
+      "message": "Image Search"
+   },
+   "short": {
+      "message": "Image search"
+   }
+}
